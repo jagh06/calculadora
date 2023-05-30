@@ -29,6 +29,8 @@
             <input type="text" name="operando2">
             <input type="submit" value="enviar">
         </form>
+
+        <a href="operaciones/vista2.php">ir a la vista 2</a>
     </body>
     
 </html>
