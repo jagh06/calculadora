@@ -31,7 +31,7 @@
         </form>
 
         <a href="operaciones/vista2.php">ir a la vista 2 para ver las imagenes</a><br>
-        <a href="https://www.endoflineblog.com/implementing-oneflow-on-github-bitbucket-and-gitlab">ir a la documentacion de OneFlow</a>
+        <a href="https://www.endoflineblog.com/implementing-oneflow-on-github-bitbucket-and-gitlab">ir  a la documentacion de OneFlow</a>
     </body>
     
 </html>
